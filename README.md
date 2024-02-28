@@ -1,2 +1,2 @@
 # Spring
-Spring with Java without Maven
+Spring with Java without Maven.
